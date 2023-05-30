@@ -1,0 +1,12 @@
+/* This is the style sheet for the Food Wars Recipe website */
+
+body {
+    background-color: black;
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.img1 {
+    height: 700px;
+    width: auto;
+}
