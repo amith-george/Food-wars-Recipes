@@ -1,0 +1,26 @@
+body {
+    background-color: black;
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+
+.heading {
+    text-align: center;
+    color: goldenrod;
+    font-size: 40px;
+}
+
+.para {
+    font-size: 18px;
+}
+
+.subheading {
+    color: goldenrod;
+    font-size: 30px;
+}
+
+
+.result {
+    color: gold;
+}
