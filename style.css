@@ -6,7 +6,28 @@ body {
     font-family: 'Courier New', Courier, monospace;
 }
 
+
 .img1 {
-    height: 700px;
+    height: 600px;
     width: auto;
+}
+
+.heading {
+    text-align: center;
+    color:lightcoral;
+    font-size: 40px;
+}
+
+.para {
+    font-size: 18px;
+}
+
+.subheading {
+    font-size: 22px;
+    font-weight: 800;
+}
+
+.list {
+    font-size: 20px;
+    font-weight: 500;
 }
