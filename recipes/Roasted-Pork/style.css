@@ -1,13 +1,15 @@
 body {
-    background-color: black;
-    color: white;
+    background-color: lightyellow;
+    color: black;
     font-family: 'Courier New', Courier, monospace;
+    padding: 50px;
+    border: 30px solid black;
 }
 
 
 .heading {
     text-align: center;
-    color: goldenrod;
+    color: orange;
     font-size: 40px;
 }
 
@@ -16,7 +18,7 @@ body {
 }
 
 .subheading {
-    color: goldenrod;
+    color: orange;
     font-size: 20px;
 }
 
@@ -25,5 +27,5 @@ body {
 }
 
 .result {
-    color: gold;
+    color: orange;
 }
